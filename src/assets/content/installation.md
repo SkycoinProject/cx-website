@@ -180,7 +180,7 @@ this in your terminal:
 
 ```
 CX 0.5.13
-More information about CX is available at http://cx.skycoin.net/ and https://github.com/skycoin/cx/
+More information about CX is available at http://cx.skycoin.com/ and https://github.com/skycoin/cx/
 :func main {...
 	* 
 ```

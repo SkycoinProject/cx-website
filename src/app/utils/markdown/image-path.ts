@@ -8,7 +8,7 @@ export const imagePath = (md) => {
     const src = token.attrGet('src');
 
     if (!(src.startsWith('//') || src.startsWith('http'))) {
-      token.attrSet('src', '../assets/img/' + src);
+      token.attrSet('src', 'assets/img/' + src);
     }
 
     return self.renderToken(tokens, id, options);
